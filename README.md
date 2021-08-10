@@ -1,2 +1,2 @@
 # pokedex
-Uma pokedéx feita em React.
+Será uma pokedéx feita em React.
